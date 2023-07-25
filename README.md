@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @nobinalhussain
-- 👀 I’m interested in Digital Marketing
-- 🌱 I’m currently learning Digital Marketing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via instagram @nobinalhussain
+- 👋 Hi there, I’m @nobinalhussain
+- 👀 I’m interested in Search Engine Optimization
+- 💞️ I’m looking to collaborate on your SEO Project 
+- 📫 Reach me via Instagram @nobinalhussain
 
 <!---
 nobinalhussain/nobinalhussain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
