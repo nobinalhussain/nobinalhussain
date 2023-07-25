@@ -1,7 +1,8 @@
-- 👋 Hi there, I’m @nobinalhussain
-- 👀 I’m interested in Search Engine Optimization
-- 💞️ I’m looking to collaborate on your SEO Project 
-- 📫 Reach me via Instagram @nobinalhussain
+Hi there!
+
+I'm Nobin Hussain Founder of Logistic SEO, which is a leading SEO agency in Bangladesh. I'm also known as Nobin Al Hussain. I have 2 years of experience in the SEO field.
+
+
 
 <!---
 nobinalhussain/nobinalhussain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
