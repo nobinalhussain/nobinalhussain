@@ -1,6 +1,6 @@
 Hi there!
 
-I'm Nobin Hussain Founder of Logistic SEO, which is a leading SEO agency in Bangladesh. I'm also known as Nobin Al Hussain. I have 2 years of experience in the SEO field.
+I'm Nobin Hussain Founder of Logistic SEO, which is a leading SEO agency in Bangladesh. I'm also known as Nobin Al Hussain. I have 2 years of experience in the SEO & Local SEO field.
 
 
 
